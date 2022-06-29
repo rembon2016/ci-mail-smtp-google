@@ -1,4 +1,5 @@
 # CodeIgniter dengan Mail SMTP Google
+Requirement:
 - CodeIgniter Version 3.1.13
 - Akun Google (Login SMTP)
 - Composer
