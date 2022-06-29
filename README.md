@@ -1,4 +1,7 @@
 # CodeIgniter dengan Mail SMTP Google
+CodeIgniter Version 3.1.13
+Akun Google (Login SMTP)
+Composer
 
 # Install
 > composer install
@@ -13,6 +16,8 @@
   - pada bagian "select device" pilih "Other (Custom Name)"
 6. klik "GENERATE"
 7. Catat 16 digit App Password untuk dimasukkan pada variable $config['smtp_pass'] sebagai pengganti password akun
+8. Ubah isi variabel-variabel yang bersifat dinamis sesuai pengaturan pada file controller Email.
+> ci-mail-smtp-google/application/controllers/Email.php
 
 # Run
 > php -S localhost:8000 index.php
