@@ -16,5 +16,7 @@
 
 # Run
 > php -S localhost:8000 index.php
-untuk test mengirim email pada browser buka url
+
+# Test kirim Email
+buka url berikut pada browser
 > http://localhost:8000/index.php/email/send
