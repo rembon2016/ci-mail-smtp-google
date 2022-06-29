@@ -1,7 +1,7 @@
 # CodeIgniter dengan Mail SMTP Google
-CodeIgniter Version 3.1.13
-Akun Google (Login SMTP)
-Composer
+- CodeIgniter Version 3.1.13
+- Akun Google (Login SMTP)
+- Composer
 
 # Install
 > composer install
